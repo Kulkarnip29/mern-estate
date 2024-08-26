@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Home() {
   return (
-    <div>
+    <div className='bg-amber-700'>
      Home 
     </div>
   )
